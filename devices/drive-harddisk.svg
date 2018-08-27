@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="drive-harddisk.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="20.440678"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg38" />
+  <defs
+     id="defs20">
+    <filter
+       id="a">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation=".8"
+         id="feGaussianBlur2" />
+      <feOffset
+         dy=".4"
+         id="feOffset4" />
+      <feComponentTransfer
+         id="feComponentTransfer8">
+        <feFuncA
+           slope=".3"
+           type="linear"
+           id="feFuncA6" />
+      </feComponentTransfer>
+      <feMerge
+         id="feMerge14">
+        <feMergeNode
+           id="feMergeNode10" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode12" />
+      </feMerge>
+    </filter>
+    <clipPath
+       id="b">
+      <rect
+         fill="#ffc107"
+         fill-rule="evenodd"
+         width="44"
+         height="32"
+         x="2"
+         y="-24"
+         rx="2"
+         ry="2"
+         id="rect17" />
+    </clipPath>
+  </defs>
+  <g
+     fill-rule="evenodd"
+     transform="translate(0 32)"
+     id="g36">
+    <rect
+       fill="#ffc107"
+       width="44"
+       height="32"
+       x="2"
+       y="-24"
+       filter="url(#a)"
+       rx="2"
+       ry="2"
+       id="rect22" />
+    <rect
+       opacity=".1"
+       width="6"
+       height="24"
+       x="40"
+       y="-20"
+       rx="0"
+       ry="0"
+       id="rect24"
+       style="fill:#ffff00" />
+    <path
+       fill="#212121"
+       d="M4-24c-1.108 0-2 .892-2 2V6c0 1.108.892 2 2 2h40c1.108 0 2-.892 2-2V2h-4v-6h4v-2h-4v-12h4v-4c0-1.108-.892-2-2-2H4z"
+       clip-path="url(#b)"
+       filter="url(#a)"
+       id="path26"
+       style="fill:#333333" />
+    <circle
+       fill="#616161"
+       cx="5"
+       cy="-21"
+       r="1"
+       id="circle28" />
+    <circle
+       fill="#616161"
+       cx="5"
+       cy="5"
+       r="1"
+       id="circle30" />
+    <circle
+       fill="#616161"
+       cx="43"
+       cy="5"
+       r="1"
+       id="circle32" />
+    <circle
+       fill="#616161"
+       cx="43"
+       cy="-21"
+       r="1"
+       id="circle34" />
+  </g>
+</svg>
